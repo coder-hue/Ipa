@@ -1,0 +1,49 @@
+{
+    "version": "1.0",
+    "sourceName": "Gangsters For Life appstore",
+    "sourceAuthor": "Gangssters For Life",
+    "sourceLinkTitle": "Yes",
+    "sourceLinkUrl": "https://github.com",
+    "sourceImage": "https://github.com/coder-hue/Ipa/blob/main/chfjhkhjhbhjkb.jpg?raw=true",
+    "sourceUpdateTime": "2023-11-23T11:00:00+0800", 
+    "sourceDescription": "Join The Discord https://discord.gg/fRsjcjUy",
+    "appCategories": [
+        "Hacks",
+        "Emulators",
+        "Free Premium"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-6-24",
+            "appName": "Ipogo (Pokemon Go Hacks)",
+            "appVersion": "2.9.6",
+            "appImage": "https://play-lh.googleusercontent.com/0vpq7Mu6ZEloYsC6kJFJRRHidRQzZf9loRcOcBh03GT2DNQiX_Z-uS9tyYuaHZIDKCI=w240-h480-rw",
+            "appPackage": "https://drive.google.com/uc?export=download&id=1Q3y7_53kFa7pJ7nF0FNqPv4GEnjJAe6H",
+            "appDescription": "iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2023-6-24",
+            "appName": "Spotify Premium",
+            "appVersion": "8.8.36",
+            "appImage": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs",
+            "appPlist": "https://github.com/coder-hue/Ipa/releases/download/1/SpotifyM.ipa",
+            "appDescription": "Free Spotify Premium"
+        },
+
+        {
+            "appType": "LINK",
+            "appCateIndex": 2,
+            "appUpdateTime": "2023-6-24",
+            "appName": "uYou+",
+            "appVersion": "18.14.1.30",
+            "appImage": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+            "appLink": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+            "appDescription": "uYou+ is a modified version of Youtube with additional features"
+        }
+    ]
+}
