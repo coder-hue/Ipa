@@ -52,7 +52,7 @@
             "appUpdateTime": "2023-6-24",
             "appName": "Twitch Ad Block",
             "appVersion": "15.0.0.9",
-            "appImage": "https://pbs.twimg.com/profile_images/1452698670655172608/FpRETut5_400x400.png",
+            "appImage": "https://cdn.pixabay.com/photo/2021/12/10/16/38/twitch-6860918_1280.png",
             "appLink": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v15.0_0.0.9-3/TwitchAdBlock_15.0_0.0.9-3.ipa",
             "appDescription": "Ad blocker for Twitch iOS app"
         }
