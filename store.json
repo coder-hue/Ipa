@@ -20,7 +20,7 @@
             "appName": "Ipogo (Pokemon Go Hacks)",
             "appVersion": "2.9.6",
             "appImage": "https://lh3.googleusercontent.com/Uzo_GQXZXc1Nsj7OY3dbfRDam0TjTzV4A1dhgSYLzkdrygVRDZgDMv7JME4kEAkS0UFa0MdJevzXynIlc7X6yXRSEV2-XkrRpX1QzJts9-a6=e365-s0",
-            "appPackage": "https://drive.google.com/uc?export=download&id=1Q3y7_53kFa7pJ7nF0FNqPv4GEnjJAe6H",
+            "appPackage": "https://github.com/coder-hue/Ipa/releases/download/12/ipogo-2.9.6M.ipa",
             "appDescription": "iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more"
         },
 
@@ -55,6 +55,17 @@
             "appImage": "https://cdn.pixabay.com/photo/2021/12/10/16/38/twitch-6860918_1280.png",
             "appLink": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v15.0_0.0.9-3/TwitchAdBlock_15.0_0.0.9-3.ipa",
             "appDescription": "Ad blocker for Twitch iOS app"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2023-6-24",
+            "appName": "Photomath+",
+            "appVersion": "1.0.0",
+            "appImage": "https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA=w240-h480-rw",
+            "appLink": "https://github.com/coder-hue/Ipa/releases/download/12/PhotomathM.ipa",
+            "appDescription": "Get free photomathe plus"
         }
     ]
 }
