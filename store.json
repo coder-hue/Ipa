@@ -1,10 +1,11 @@
 {
     "version": "1.0",
-    "sourceName": "Gangsters For Life appstore",
+    "sourceName": "Gangsters For Life Appstore",
     "sourceAuthor": "Gangssters For Life",
     "sourceLinkTitle": "Discord",
     "sourceLinkUrl": "https://discord.gg/GpArSYbA5s",
     "sourceImage": "https://github.com/coder-hue/Ipa/blob/main/chfjhkhjhbhjkb.jpg?raw=true",
+    "sourceDescription": "Offical Appstore For Gangssters For Life Discord",
     "sourceUpdateTime": "2023-6-24", 
     "appCategories": [
         "Hacks",
@@ -35,7 +36,7 @@
         },
 
         {
-            "appType": "LINK",
+            "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2023-6-24",
             "appName": "uYou+",
@@ -43,6 +44,17 @@
             "appImage": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
             "appLink": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
             "appDescription": "uYou+ is a modified version of Youtube with additional features"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2023-6-24",
+            "appName": "Twitch Ad Block",
+            "appVersion": "15.0.0.9",
+            "appImage": "https://play-lh.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg=w240-h480-rw",
+            "appLink": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v15.0_0.0.9-3/TwitchAdBlock_15.0_0.0.9-3.ipa",
+            "appDescription": "Ad blocker for Twitch iOS app"
         }
     ]
 }
