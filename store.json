@@ -78,6 +78,17 @@
             "appImage": "https://play-lh.googleusercontent.com/g0CSrsNnHBtlFcJ2-y1CqyzU8OA6Q1J5Mp00S-sGkHkatCZ4v2pMXR_IhLpDgvZ3leU",
             "appLink": "https://github.com/coder-hue/Ipa/releases/download/12/IPAcarrotweatherultra-5.10.3-zxcvbn.ipa",
             "appDescription": "Unlock Carrots ultra "
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-6-25",
+            "appName": "FlightRadar24 (Gold)",
+            "appVersion": "9.5.0",
+            "appImage": "https://play-lh.googleusercontent.com/IxxF4rt1_5dQmlqaT2B-0KrF2mmwa_BNsHnkrPg1RsRAWCpT124I_r7rPKBbL1GtSo_e",
+            "appLink": "https://github.com/coder-hue/Ipa/releases/download/12/IPAcarrotweatherultra-5.10.3-zxcvbn.ipa",
+            "appDescription": "Gives the gold subscription "
         }
     ]
 }
