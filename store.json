@@ -67,6 +67,17 @@
             "appImage": "https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA=w240-h480-rw",
             "appLink": "https://github.com/coder-hue/Ipa/releases/download/12/PhotomathM.ipa",
             "appDescription": "Get free photomath plus"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2023-6-25",
+            "appName": "CARROT ULTRA",
+            "appVersion": "5.10.3",
+            "appImage": "https://play-lh.googleusercontent.com/g0CSrsNnHBtlFcJ2-y1CqyzU8OA6Q1J5Mp00S-sGkHkatCZ4v2pMXR_IhLpDgvZ3leU",
+            "appLink": "https://github.com/coder-hue/Ipa/releases/download/12/IPAcarrotweatherultra-5.10.3-zxcvbn.ipa",
+            "appDescription": "Get free photomath plus"
         }
     ]
 }
